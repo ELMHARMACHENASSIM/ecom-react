@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecom-react/static/css/main.d18e97e5.css",
+    "main.js": "/ecom-react/static/js/main.52d2c306.js",
+    "static/media/img3.jpg": "/ecom-react/static/media/img3.43a253b3a62a81c5864f.jpg",
+    "static/media/clothes_-_36846 (720p).mp4": "/ecom-react/static/media/clothes_-_36846 (720p).c06dc54678ed87831c96.mp4",
+    "static/media/img4.jpg": "/ecom-react/static/media/img4.d19760e69a34742dc556.jpg",
+    "static/media/img2.jpg": "/ecom-react/static/media/img2.beac15abf4f750926dcd.jpg",
+    "static/media/abt.jpg": "/ecom-react/static/media/abt.c6a008948649451716f3.jpg",
+    "static/media/prd3.jpg": "/ecom-react/static/media/prd3.2e510d66349471f7035d.jpg",
+    "static/media/prd4.jpg": "/ecom-react/static/media/prd4.099836a1d66a57209184.jpg",
+    "static/media/img1.jpg": "/ecom-react/static/media/img1.9e2d974061829b9d8ef0.jpg",
+    "static/media/prd1.jpg": "/ecom-react/static/media/prd1.e3a999245d5fb1f4f592.jpg",
+    "index.html": "/ecom-react/index.html",
+    "main.d18e97e5.css.map": "/ecom-react/static/css/main.d18e97e5.css.map",
+    "main.52d2c306.js.map": "/ecom-react/static/js/main.52d2c306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18e97e5.css",
+    "static/js/main.52d2c306.js"
+  ]
+}
